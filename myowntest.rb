@@ -1,3 +1,4 @@
-array = [1,2]
-array.push(:last)
-puts array
+first_name, *last_name = ["John", "Smith", "III"]
+
+
+puts last_name
