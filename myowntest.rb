@@ -1,3 +1,3 @@
-string = "\\'"
+string = "hey"
 
-puts Math.sqrt(5)
+puts string.to_sym
