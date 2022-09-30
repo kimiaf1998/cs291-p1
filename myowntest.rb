@@ -1,4 +1,6 @@
-hash = Hash.new([])
+def method_with_var_args(*args)
+  args
+end
 
-hash[:one] << "uno"
-hash[:two] << "dos"
+
+puts method_with_var_args
