@@ -1,3 +1,3 @@
-string = "hey"
-
-puts string.to_sym
+array = [1,2]
+array.push(:last)
+puts array
