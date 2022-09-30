@@ -1,3 +1,3 @@
 string = "\\'"
 
-puts string
+puts Math.sqrt(5)
