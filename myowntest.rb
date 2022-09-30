@@ -1,5 +1,4 @@
-first_name, *last_name = ["John", "Smith", "III"]
-obj = Object.new
-# assert_equal int,
+hash = Hash.new([])
 
-nil.nil?
+hash[:one] << "uno"
+hash[:two] << "dos"
