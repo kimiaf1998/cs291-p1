@@ -7,4 +7,4 @@ def method_with_keyword_arguments(one: 1, two: 'two')
 end
 
 
-puts method_with_keyword_arguments
+puts "Gray, James"[/(\w+), (\w+)/, 3]
